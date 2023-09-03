@@ -1,0 +1,102 @@
+
+h1{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 32px;
+    font-style: italic;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
+.colorbox{
+    border: 2px black dotted;
+    width: 75%;
+    margin: 30px auto; 
+    text-align: center;
+}
+#stonegray{
+    border: 2px solid black;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    padding: auto;
+    background-color: #696969;
+    min-height: 100px;
+}
+#yellow{
+    border: 2px solid black;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #ffd700;
+    min-height: 100px;
+}
+#royalblue{
+    border: 2px solid black;
+    width: 50%;
+    margin: 20px auto;
+    background-color: #00008b;
+    min-height: 100px;
+}
+.fonts{
+    border: 2px black dotted;
+    width: 75%;
+    margin: 30px auto; 
+    text-align: center;
+}
+#lato{
+    border: 2px solid black;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    padding: auto;
+}
+#poppins{
+    border: 2px solid black;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    padding: auto;
+}
+#buntu{
+    border: 2px solid black;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    padding: auto;
+}
+#bold{
+    font-weight: bold;
+}
+#italic{
+    font-style: italic;
+}
+.stylespec{
+    border: 2px black dotted;
+    width: 75%;
+    margin: 30px auto; 
+}
+#latos{
+    border: 2px solid black;
+    width: 50%;
+    margin: 20px auto;
+}
+#poppinss{
+    border: 2px solid black;
+    width: 50%;
+    margin: 20px auto;
+}
+#ubuntus{
+    border: 2px solid black;
+    width: 50%;
+    margin: 20px auto;
+}
+#ubuntup{
+    text-align: center;
+}
